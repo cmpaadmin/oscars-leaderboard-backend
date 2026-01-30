@@ -1,3 +1,25 @@
 id,name,nominees
-1,Best Picture,Oppenheimer|Barbie|Poor Things
-2,Best Actor,Cillian Murphy|Bradley Cooper|Paul Giamatti
+1,BEST ACTRESS,Jessie Buckley|Rose Byrne|Kate Hudson|Renate Reinsve|Emma Stone
+2,BEST SUPPORTING ACTRESS,Elle Fanning|Inga Ibsdotter Lilleaas|Amy Madigan|Wunmi Mosaku|Teyana Taylor
+3,BEST ACTOR,Timothee Chalamet|Leonardo DiCaprio|Ethan Hawke|Michael B. Jordan|Wagner Moura
+4,BEST SUPPORTING ACTOR,Benicio Del Toro|Jacob Elordi|Delroy Lindo|Sean Penn|Stellan Skarsgard
+5,BEST ADAPTED SCREENPLAY,Bugonia|Frankenstein|Hamnet|One Battle After Another|Train Dreams
+6,BEST ORIGINAL SCREENPLAY,Blue Moon|It Was Just An Accident|Marty Supreme|Sentimental Value|Sinners
+7,BEST ANIMATED FEATURE,Arco|Elio|KPop Demon Hunters|Little Amelie Or The Character of Rain|Zootopia 2
+8,BEST DOCUMENTARY FEATURE,The Alabama Solution|Come See Me in the Good Light|Cutting Through the Rocks|Mr. Nobody Against Putin|The Perfect Neighbor
+9,BEST INTERNATIONAL FEATURE,The Secret Agent|It Was Just An Accident|Sentimental Value|Sirat|The Voice of Hind Rajab
+10,BEST SHORT - ANIMATED,Butterfly|Forevergreen|The Girl Who Cried Pearls|Retirement Plan|The Three Sisters
+11,BEST SHORT - LIVE ACTION,Butcher's Stain|A Friend of Dorothy|Jane Austen's Period Drama|The Singers|Two People Exchanging Saliva
+12,BEST SHORT - DOCUMENTARY,All the Empty Rooms|Armed Only With a Camera|Children No More|The Devil is Busy|Perfectly a Strangeness
+13,BEST CINEMATOGRAPHY,Frankenstein|Marty Supreme|One Battle After Another|Sinners|Train Dreams
+14,BEST FILM EDITING,F1|Marty Supreme|One Battle After Another|Sentimental Value|Sinners
+15,BEST SOUND,F1|Frankenstein|One Battle After Another|Sinners|Sirat
+16,BEST VFX,Avatar|F1|Jurassic World|The Lost Bus|Sinners
+17,BEST PRODUCTION DESIGN,Frankenstein|Hamnet|Marty Supreme|One Battle After Another|Sinners
+18,BEST COSTUME DESIGN,Avatar|Frankenstein|Hamnet|Marty Supreme|Sinners
+19,BEST MAKEUP & HAIRSTLYING,Frankenstein|Kokuho|Sinners|The Smashing Machine|The Ugly Stepsister
+20,BEST ORIGINAL SCORE,Bugonia|Frankenstein|Hamnet|One Battle After Another|Sinners
+21,BEST ORIGINAL SONG,Dear Me (Diane Warren)|Golden (KPop Demon Hunters)|I Lied to You (Sinners)|Sweet Dreams of Joy (Viva Verdi!)|Train Dreams (Train Dreams)
+22,BEST CASTING,Hamnet|Marty Supreme|One Battle After Another|The Secret Agent|Sinners
+23,BEST DIRECTOR,Hamnwet|Marty Supreme|One Battle After Another|Sentimental Value|Sinners
+24,BEST PICTURE,Bugonia|F1|Frankenstein|hamnet|Marty Supreme|One Battle After Another|The Secret Agent|Sentimental Value|Sinners|Train Dreams
